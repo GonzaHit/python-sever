@@ -15,7 +15,7 @@ Servidor HTTP instantáneo con un solo comando. Comparte archivos locales fácil
 ### Instalación Manual
 ```bash
 git clone https://github.com/GonzaHit/python-sever
-cd quickserve
+cd python-sever
 chmod +x setup_server.sh
 ./setup_server.sh
 source ~/.bashrc
